@@ -1,8 +1,8 @@
 {
     "Do the dishes": {
-        "completed": false
+        "completed": true
     },
     "Call mom": {
-        "completed": false
+        "completed": true
     }
 }

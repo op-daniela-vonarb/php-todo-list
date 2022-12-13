@@ -4,5 +4,8 @@
     },
     "TODO item 2": {
         "completed": true
+    },
+    "Do the dishes": {
+        "completed": false
     }
 }
